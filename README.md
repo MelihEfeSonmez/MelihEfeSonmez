@@ -26,3 +26,6 @@ I'm a **2nd year Computer Engineering Student** at **Boğaziçi University**.
 <a href="https://www.linkedin.com/in/melih-efe-sonmez/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="melihefesonmez" height="30" /></a>
 <a href="mailto:melihefesnmzz@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="melihefesonmez" height="30" /></a>
 </p>
+
+---
+*Developed by [Melih Efe Sonmez](https://github.com/MelihEfeSonmez)*
