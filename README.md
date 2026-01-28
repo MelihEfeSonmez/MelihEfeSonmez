@@ -4,7 +4,7 @@ I'm a **2nd year Computer Engineering Student** at **Boğaziçi University**.
 
 - 🔭 I’m currently working on **Unity 2D/3D projects & Game Mechanics**
 - 🎓 I have a background in **Data Structures & Algorithms**, **Object Oriented Programming** and **Circuit Analysis**
-- ⚡ Fun fact: When I'm not coding, I enjoy and **sailing (2-star yachtsman) ⛵**
+- ⚡ Fun fact: When I'm not coding, I enjoy playing basketball 🏀 and **sailing (2-star yachtsman) ⛵**
 
 ---
 
